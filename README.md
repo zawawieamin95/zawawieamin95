@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a **Software Engineering Student** passionate 
 
 ---
 
-### 👩‍🎓 About Me
+### 👨‍🎓 About Me
 - 🎓 Pursuing a Bachelor's in Computer Science at Universiti Malaysia Sabah.
 - 💡 Currently exploring **Full-Stack Development** and **DevOps**.
 - 🏆 Achievements: Dean's List, Silver Award Innovation Competition,.
