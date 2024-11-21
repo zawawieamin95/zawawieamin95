@@ -29,6 +29,18 @@ Welcome to my GitHub profile! I'm a **Software Engineering Student** passionate 
 ![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-%23D83B01?style=flat-square&logo=microsoft&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23F05033?style=flat-square&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visualstudiocode)
+---
+### 💻 Projects
+
+#### 1. [Campsite Booking System](https://github.com/yourusername/campsite-booking-system)
+- 🏕️ **Description**: A web-based system that allows users to book campsites and equipment online.
+- 🔧 **Tech Stack**: Laravel, PHP, MySQL.
+- 🏆 **Achievements**: Won a Silver Award at PEREKA 2024.
+
+#### 2. [Event Management System for FKI, UMS](https://github.com/yourusername/event-management-system)
+- 🎓 **Description**: A system designed to organize and manage faculty events effectively.
+- 🔧 **Tech Stack**: React, Node.js, MySQL.
+- 📅 **Purpose**: Built for Universiti Malaysia Sabah's Faculty of Computing and Informatics.
 
 ---
 
