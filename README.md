@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I'm a **Software Engineering Student** passionate 
 
 ![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=flat-square&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-%234479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -34,7 +35,7 @@ Welcome to my GitHub profile! I'm a **Software Engineering Student** passionate 
 
 #### 1. [Campsite Booking System](https://github.com/yourusername/campsite-booking-system)
 - 🏕️ **Description**: A web-based system that allows users to book campsites and equipment online.
-- 🔧 **Tech Stack**: PHP, MySQL, HTML, CSS, JavaScript
+- 🔧 **Tech Stack**:  ![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=flat-square&logo=php&logoColor=white)![HTML](https://img.shields.io/badge/-HTML-%23E34F26?style=flat-square&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=css3&logoColor=white)![SQL](https://img.shields.io/badge/-SQL-%234479A1?style=flat-square&logo=postgresql&logoColor=white)![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - 🏆 **Achievements**: Won a Silver Award at PEREKA 2024.
 
 #### 2. [Event Management System for FKI, UMS](https://github.com/yourusername/event-management-system)
