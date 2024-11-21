@@ -34,12 +34,12 @@ Welcome to my GitHub profile! I'm a **Software Engineering Student** passionate 
 
 #### 1. [Campsite Booking System](https://github.com/yourusername/campsite-booking-system)
 - 🏕️ **Description**: A web-based system that allows users to book campsites and equipment online.
-- 🔧 **Tech Stack**: Laravel, PHP, MySQL.
+- 🔧 **Tech Stack**: PHP, MySQL, HTML, CSS, JavaScript
 - 🏆 **Achievements**: Won a Silver Award at PEREKA 2024.
 
 #### 2. [Event Management System for FKI, UMS](https://github.com/yourusername/event-management-system)
 - 🎓 **Description**: A system designed to organize and manage faculty events effectively.
-- 🔧 **Tech Stack**: React, Node.js, MySQL.
+- 🔧 **Tech Stack**: PHP, MySQL, HTML, CSS, JavaScript
 - 📅 **Purpose**: Built for Universiti Malaysia Sabah's Faculty of Computing and Informatics.
 
 ---
@@ -57,9 +57,6 @@ Welcome to my GitHub profile! I'm a **Software Engineering Student** passionate 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zawawieamin)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zawawie.amin/)
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhdzawawie02@gmail.com)
-
-
-
 
 ---
 
