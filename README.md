@@ -46,7 +46,6 @@ Welcome to my GitHub profile! I'm a **Software Engineering Student** passionate 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zawawie.amin/)
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhdzawawie02@gmail.com)
 
----
 
 
 
