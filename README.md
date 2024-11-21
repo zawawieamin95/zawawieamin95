@@ -33,8 +33,8 @@ Welcome to my GitHub profile! I'm a **Software Engineering Student** passionate 
 
 ### 📈 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zawawieamin95&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawawieamin95&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
@@ -47,10 +47,7 @@ Welcome to my GitHub profile! I'm a **Software Engineering Student** passionate 
 
 ---
 
-### 🚀 Fun Facts:
-- 🖥️ I started coding at [Your Start Age] years old!
-- 🎮 I enjoy playing video games like [Your Favorite Game].
-- 🌍 My dream is to build software that positively impacts people worldwide.
+
 
 ---
 
