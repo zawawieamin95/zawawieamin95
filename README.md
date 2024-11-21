@@ -24,6 +24,7 @@ Welcome to my GitHub profile! I'm a **Software Engineering Student** passionate 
 
 
 ![Tools](https://img.shields.io/badge/-Tools-%23262626?style=flat-square&logo=tools)
+
 ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-%23D83B01?style=flat-square&logo=microsoft&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23F05033?style=flat-square&logo=git&logoColor=white)
