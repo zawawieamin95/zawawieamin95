@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a **Software Engineering Student** passionate 
 
 ### 👨‍🎓 About Me
 - 🎓 Pursuing a Bachelor's in Computer Science at Universiti Malaysia Sabah.
-- 💡 Currently exploring **Full-Stack Development** and **DevOps**.
+- 💡 Currently exploring **Full-Stack Development**
 - 🏆 Achievements: Dean's List, Silver Award Innovation Competition,.
 - 🌱 Always learning and staying curious!
 
@@ -43,13 +43,6 @@ Welcome to my GitHub profile! I'm a **Software Engineering Student** passionate 
 - 🔧 **Tech Stack**: ![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=flat-square&logo=php&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-%23E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-%234479A1?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - 📅 **Purpose**: Built for Universiti Malaysia Sabah's Faculty of Computing and Informatics.
 
----
-
-### 📈 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zawawieamin95&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawawieamin95&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 ---
 
